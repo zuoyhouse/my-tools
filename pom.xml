@@ -15,7 +15,7 @@
         <project.build.locales>zh_CN</project.build.locales>
         <java.version>1.8</java.version>
         <project.build.jdk>${java.version}</project.build.jdk>
-        <spring.version>4.3.9.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <fasterxml.version>2.8.7</fasterxml.version>
     </properties>
 
